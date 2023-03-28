@@ -1,0 +1,15 @@
+artifact_uri: /home/vagrant/mlflow-practice/mlruns/713318736947058895/e9dda7f560c246d88fd2d10abde643ad/artifacts
+end_time: 1680008206507
+entry_point_name: ''
+experiment_id: '713318736947058895'
+lifecycle_stage: active
+run_id: e9dda7f560c246d88fd2d10abde643ad
+run_name: melodic-bug-314
+run_uuid: e9dda7f560c246d88fd2d10abde643ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680008202354
+status: 3
+tags: []
+user_id: vagrant

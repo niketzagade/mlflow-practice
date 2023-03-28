@@ -1,0 +1,15 @@
+artifact_uri: /home/vagrant/mlflow-practice/mlruns/713318736947058895/575e11576660464cb8429c2c28e4865a/artifacts
+end_time: 1680008202222
+entry_point_name: ''
+experiment_id: '713318736947058895'
+lifecycle_stage: active
+run_id: 575e11576660464cb8429c2c28e4865a
+run_name: mercurial-lamb-364
+run_uuid: 575e11576660464cb8429c2c28e4865a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680008198102
+status: 3
+tags: []
+user_id: vagrant

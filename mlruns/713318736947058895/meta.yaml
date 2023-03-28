@@ -1,0 +1,6 @@
+artifact_location: /home/vagrant/mlflow-practice/mlruns/713318736947058895
+creation_time: 1680008190208
+experiment_id: '713318736947058895'
+last_update_time: 1680008190208
+lifecycle_stage: active
+name: ElasticNet_wine

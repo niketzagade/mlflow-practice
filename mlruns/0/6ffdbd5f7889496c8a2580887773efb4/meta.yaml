@@ -1,0 +1,15 @@
+artifact_uri: /home/vagrant/mlflow-practice/mlruns/0/6ffdbd5f7889496c8a2580887773efb4/artifacts
+end_time: 1680008786070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ffdbd5f7889496c8a2580887773efb4
+run_name: ''
+run_uuid: 6ffdbd5f7889496c8a2580887773efb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680008773141
+status: 3
+tags: []
+user_id: vagrant
